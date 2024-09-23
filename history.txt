@@ -1,0 +1,162 @@
+    1  git remote add origin https:github.com/Sigmenko/Bandito
+    2  git remote add origin https:github.com/Sigmenko/Bandito.git
+    3  git init
+    4  git remote add origin https://github.com/Sigmenko/Bandito.git
+    5  git remote -v
+    6  cd projects
+    7  cd projects
+    8  pwd
+    9  ls
+   10  mkdir projects
+   11  cd projects
+   12  mkdir HW_1_part_1
+   13  cd HW_1_part_1
+   14  touch test_file_1
+   15  touch test_file_2
+   16  toch test_file_3
+   17  touch test_file_3
+   18  mkdir folder_1
+   19  mv test_file_2 folder_1/
+   20  mv test_file_1 test_file_Vanyok_thanks.txt
+   21  rm test_file_3
+   22  mv folder_1 some_diff_dir
+   23  nano
+   24  nano test_file_Vanyok_thanks.txt
+   25  ді
+   26  ls
+   27  ls some_diff_dir
+   28  git commit -m "commit homework"
+   29  [200~git config --global user.name "Your Name"
+   30  git config --global user.name "Sigmenko"
+   31  git config --global user.email "torbares@gmail.com"
+   32  git commit -m "commit homework"
+   33  ~/projects/HW_1_part_1
+   34  touch .gitignore
+   35  ../../*
+   36  .VirtualBox/
+   37  .arduinoIDE/
+   38  .dotnet/
+   39  .gitconfig
+   40  .nuget/
+   41  .oracle_jre_usage/
+   42  .vscode/
+   43  AppData/
+   44  Contacts/
+   45  Desktop/
+   46  Documents/
+   47  Downloads/
+   48  Favorites/
+   49  Links/
+   50  Music/
+   51  NTUSER.DAT*
+   52  OneDrive/
+   53  Pictures/
+   54  Saved Games/
+   55  Searches/
+   56  Videos/
+   57  VirtualBox VMs/
+   58  git add .
+   59  git config --global core.autocrlf true
+   60  git config --global core.autocrlf input
+   61  git add .
+   62  git commit -m "commit homework"
+   63  git commit
+   64  git status
+   65  cd ~/projects/HW_1_part_1
+   66  git status
+   67  git add .
+   68  git commit -m "commit homework"
+   69  pwd
+   70  ls
+   71  git add .
+   72  git commit -m "commit homework"
+   73  ls
+   74  cd C:/Users/Nikita/projects/HW_1_part_1
+   75  pwd
+   76  ls
+   77  cd ~/projects
+   78  cd HW_1_part_1
+   79  git add .
+   80  git commit -m "commit homework"
+   81  cd ~/projects
+   82  rm -rf HW_1_part_1
+   83  mkdir HW_1_part_1
+   84  cd HW_1_part_1
+   85  git init
+   86  touch test_file_1
+   87  touch test_file_2
+   88  touch test_file_3
+   89  mkdir folder_1
+   90  mv test_file_2 folder_1/
+   91  git add .
+   92  git commit -m "commit homework"
+   93  git remote add origin https://github.com/Sigmenko/Bandito.git
+   94  git push -u origin master
+   95  git status
+   96  git rm project
+   97  rm project
+   98  ls
+   99  rm HW_1_part_1
+  100  ls
+  101  cd projects
+  102  ls
+  103  rm HW_1_part_1
+  104  ls
+  105  rm HW_1_part_1
+  106  rmdir projects
+  107  rmdir HW_1_part_1
+  108  rmdir HW_1_part_1 -r
+  109  rmdir
+  110  rmdir --help
+  111  rmdir -p HM_1_part1_1
+  112  dc projects
+  113  cd projects
+  114  rm projects
+  115  rm -rf /projects
+  116  cd
+  117  lx
+  118  ls
+  119  mkdir HOMEWORK
+  120  cd HOMEWORK
+  121  mkdir HM_1
+  122  cd HM1
+  123  ls
+  124  cd HM_1
+  125  touch test_file_1
+  126  touch test_file_2
+  127  touch test_file_3
+  128  mkdir folder_1
+  129  mv test_file_2 folder_1/
+  130  mv test_file_1 test_file_bla_bla.txt
+  131  rm test_file_3
+  132  mv folder_1 some_diff_dir
+  133  nano test_fil_bla_bla.txt
+  134  ls
+  135  git init
+  136  git add .
+  137  git commit -m "HM_1_part_1"
+  138  git remote add origin https://github.com/Sigmenko/Bandito.git
+  139  git push -u origin master
+  140  cd
+  141  cd HOMEWORK
+  142  mkdir HM_1_part_2
+  143  cd HM_1_part_2
+  144  touch README.md
+  145  nano README.md
+  146  git init
+  147  git status]
+  148  git status
+  149  git add README.md
+  150  git commit -m "commit: add README.md z infou"
+  151  git checkout -b html
+  152  touch index.html
+  153  git commit -m "add index.html"
+  154  git checkout master
+  155  git checkout -b css
+  156  touch style.css
+  157  git add style.css
+  158  git commit -m "add style.css"
+  159  git checkout master
+  160  git merge html
+  161  git merge css
+  162  history > history.txt
